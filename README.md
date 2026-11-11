@@ -2,7 +2,7 @@
 
 GPT Import Chat is a free Chrome, Edge and Brave extension to **export, back up and transfer ChatGPT conversations** as local files. Keep a readable copy of a chat or move its text into another tool that accepts JSON or Markdown.
 
-[Download v0.4.0](https://github.com/eaglewithorange-AAA/gptimportchat/releases/download/v0.4.0/osg-chat-bridge-v0.4.0.zip) · [Release notes](https://github.com/eaglewithorange-AAA/gptimportchat/releases/tag/v0.4.0) · [Report an issue](https://github.com/eaglewithorange-AAA/gptimportchat/issues)
+[Download v0.4.0](https://github.com/eaglewithorange-AAA/gpt-import-chat/releases/download/v0.4.0/osg-chat-bridge-v0.4.0.zip) · [Release notes](https://github.com/eaglewithorange-AAA/gpt-import-chat/releases/tag/v0.4.0) · [Report an issue](https://github.com/eaglewithorange-AAA/gpt-import-chat/issues)
 
 ## Features
 
@@ -15,7 +15,7 @@ GPT Import Chat is a free Chrome, Edge and Brave extension to **export, back up 
 
 ## Install
 
-1. [Download the release ZIP](https://github.com/eaglewithorange-AAA/gptimportchat/releases/download/v0.4.0/osg-chat-bridge-v0.4.0.zip) and extract it.
+1. [Download the release ZIP](https://github.com/eaglewithorange-AAA/gpt-import-chat/releases/download/v0.4.0/osg-chat-bridge-v0.4.0.zip) and extract it.
 2. Open `chrome://extensions`, `edge://extensions` or `brave://extensions`.
 3. Enable **Developer mode** and choose **Load unpacked**.
 4. Select the extracted `osg-chat-bridge` folder containing `manifest.json`. The v0.4.0 package appears as **OS G — Мост памяти / Chat Bridge** in the browser.
